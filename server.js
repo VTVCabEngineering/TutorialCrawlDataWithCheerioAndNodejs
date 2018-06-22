@@ -79,7 +79,7 @@ function sendEmail(subject, content)
         service : 'gmail',
         auth: {
             user : 'hungfeck@gmail.com',
-            pass : 'Hungfeck7640'
+            pass : 'matkhaucuaban'
         }
     });
     var mailOptions= {
